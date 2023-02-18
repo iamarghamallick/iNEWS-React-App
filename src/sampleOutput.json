@@ -1,0 +1,1280 @@
+{
+    "status": "ok",
+    "totalResults": 513,
+    "articles": [
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Lily Hay Newman",
+            "title": "Twitter's Two-Factor Authentication Change 'Doesn't Make Sense'",
+            "description": "The company will soon require users to pay for a Twitter Blue subscription to get sign-in codes via SMS. Security experts are baffled.",
+            "url": "https://www.wired.com/story/twitter-sms-2fa-twitter-blue/",
+            "urlToImage": "https://media.wired.com/photos/63f073e89f6497cd1808ad5b/191:100/w_1280,c_limit/Twitter-2-factor-1245209524.jpg",
+            "publishedAt": "2023-02-18T15:34:33Z",
+            "content": "Twitter announced yesterday that as of March 20, it will only allow its users to secure their accounts with SMS-based two-factor authentication if they pay for a Twitter Blue subscription. Two-factor… [+3604 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Lisa Respers France",
+            "title": "Analysis: Sarah Michelle Gellar is officially an icon",
+            "description": "Let me just stake my claim: I got to talk to Buffy the Vampire Slayer, who's back on TV in the new Paramount+ show \"Wolf Pack.\" Plus, a new album from P!nk, a new sex-focused docuseries from Cara Delevingne and some love for Rajiv Surendra.",
+            "url": "https://www.cnn.com/2023/02/18/entertainment/sarah-michelle-gellar-buffy-wolf-pack-plc/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230214155935-01-sarah-michelle-gellar-scad.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-02-18T14:56:18Z",
+            "content": "A version of this story appeared in Pop Life Chronicles, CNNs weekly entertainment newsletter. To get it in your inbox, sign up for free here.\r\nLet me just cut to the chase and say I got to talk to B… [+4534 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Caroline Eden",
+            "title": "The best Baltic beach holidays: where to go for summer, sea and sand",
+            "description": "With culture and beautiful sands aplenty, the coastal towns of Poland, Lithuania, Estonia and Latvia make for a break with a differenceGdańsk is one of the most interesting cities in Europe. Birthplace of philosopher Arthur Schopenhauer, author Günter Grass (…",
+            "url": "https://www.theguardian.com/travel/2023/feb/18/best-baltic-beach-holidays-poland-lithuania-estonia-latvia-summer-coast",
+            "urlToImage": "https://i.guim.co.uk/img/media/f8937efeed89826c974c23e5370d8814c185b197/0_0_5549_3330/master/5549.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=03565baa67cae9ecefa571c98f44f00c",
+            "publishedAt": "2023-02-18T07:00:33Z",
+            "content": "Gdask and Gdynia, Poland\r\nGdask is one of the most interesting cities in Europe. Birthplace of philosopher Arthur Schopenhauer, author Günter Grass (when it was still known as Danzig) and the Solidar… [+5984 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Luke Harding in Kherson; video and pictures by Christopher Cherry",
+            "title": "Kherson’s weary holdouts recall occupation ‘nightmare’ as bombs fall",
+            "description": "The city was liberated in November but ever since the Russians have been bombarding it from across the Dnieper RiverVitaliy Savchenko showed off the damage from a Russian shell that had landed right across the street. Shrapnel tore holes in his garage and ble…",
+            "url": "https://www.theguardian.com/world/2023/feb/18/khersons-weary-holdouts-recall-occupation-nightmare-as-bombs-fall",
+            "urlToImage": "https://i.guim.co.uk/img/media/26dcbed4ae48f0c63ac9b925eb7a83fd36eb8e20/120_0_1800_1080/master/1800.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=359e83a493ead09041f7347d54484928",
+            "publishedAt": "2023-02-18T08:19:50Z",
+            "content": "Vitaliy Savchenko showed off the damage from a Russian shell that had landed right across the street. Shrapnel tore holes in his garage and blew off the kitchen door. There were three neat gaps in hi… [+9456 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Juli Clover",
+            "title": "Apple Releases Studio Display 16.4 Firmware Beta",
+            "description": "Alongside the maCOS 13.3 beta that came out this week, Apple has provided a beta of new 16.4 firmware that's designed for the Studio Display.\n\n\n\n\n\nAll Studio Display models are able to receive over-the-air firmware updates, but this firmware update is limited…",
+            "url": "https://www.macrumors.com/2023/02/17/apple-releases-studio-display-16-4-firmware-beta/",
+            "urlToImage": "https://images.macrumors.com/t/iXPd1H5IC6TMnWWuRHItlsBuG4g=/2250x/article-new/2022/03/apple-studio-display-blue.jpg",
+            "publishedAt": "2023-02-18T00:17:01Z",
+            "content": "Alongside the maCOS 13.3 beta that came out this week, Apple has provided a beta of new 16.4 firmware that's designed for the Studio Display.\r\nAll Studio Display models are able to receive over-the-a… [+255 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "MacRumors Staff",
+            "title": "Top Stories: iOS 16.4 Beta, iPhone 15 Rumors, Headset Delay, and More",
+            "description": "Apple news and rumors continue to fly about, with this week seeing fresh reports about the iPhone 15 lineup, a rumored 15-inch MacBook Air, and Apple's AR/VR headset.\n\n\n\n\n\nThis week also saw the release of iOS 16.3.1 with some bug fixes and security updates, …",
+            "url": "https://www.macrumors.com/2023/02/18/top-stories-ios-16-4-beta/",
+            "urlToImage": "https://images.macrumors.com/t/9jU3uCtyZCiQ1nBYy-j86KImEhs=/1600x/article-new/2023/02/top-stories-18feb2023.jpg",
+            "publishedAt": "2023-02-18T14:00:00Z",
+            "content": "Apple news and rumors continue to fly about, with this week seeing fresh reports about the iPhone 15 lineup, a rumored 15-inch MacBook Air, and Apple's AR/VR headset.\r\nThis week also saw the release … [+3589 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "hbullock@insider.com (Hallam Bullock)",
+            "title": "Bing's wild week",
+            "description": "In our Saturday edition: Microsoft may well have overestimated just how impactful a technology \"new Bing\" will be.",
+            "url": "https://www.businessinsider.com/10-things-in-tech-microsoft-bing-ai-wild-week-2023-2",
+            "urlToImage": "https://i.insider.com/63efb4cf0b940100196f618f?width=1200&format=jpeg",
+            "publishedAt": "2023-02-18T12:31:00Z",
+            "content": "Hello, readers. Hallam Bullock here, dialing in from across the pond. \r\nLook! Up in the sky! It's a bird! It's a Chinese spy balloon! It's just a regular balloon. At least, here in London it is.  \r\nI… [+3489 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "insider@insider.com (Leo Aquino, CEPF)",
+            "title": "A financial advisor who taught over 100,000 Black women how to invest in stocks says 4 investments are 'recession-proof'",
+            "description": "Beginner investors should start with blue chip stocks, REITs, dividend income stocks, and consumer staples, says financial advisor Cassandra Cummings.",
+            "url": "https://www.businessinsider.com/personal-finance/how-to-start-investing-during-recession-market-down-2023-2",
+            "urlToImage": "https://i.insider.com/63efbd040270b1001984e27b?width=1200&format=jpeg",
+            "publishedAt": "2023-02-18T15:00:00Z",
+            "content": "Our experts choose the best products and services to help make smart decisions with your money (here's how). In some cases, we receive a commission from our partners; however, our opinions are our ow… [+3811 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "sacevedo@insider.com (Sophia Acevedo, CEPF)",
+            "title": "13 Best High-interest CDs and Savings Accounts Today: Earn up to 4.75% APY on an 18-month CD",
+            "description": "Several of today's best high-interest accounts charge no monthly service fees. Some also let you open an account with $0.",
+            "url": "https://www.businessinsider.com/personal-finance/todays-best-high-interest-accounts-february-18-2023-2",
+            "urlToImage": "https://i.insider.com/631f4dfae8b500001850cf8d?width=1200&format=jpeg",
+            "publishedAt": "2023-02-18T11:00:00Z",
+            "content": "Our experts answer readers' banking questions and write unbiased product reviews (here's how we assess banking products). In some cases, we receive a commission from our partners; however, our opinio… [+20112 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hackaday"
+            },
+            "author": "Lewin Day",
+            "title": "Hack Lets Intel MacBook Run Without a Battery",
+            "description": "A long time ago, a laptop was a basic thing, and you could pretty much run one just by hooking up a power supply to the battery contacts. A modern MacBook is altogether fussier. However, when [Chri…",
+            "url": "https://hackaday.com/2023/02/17/hack-lets-intel-macbook-run-without-a-battery/",
+            "urlToImage": "https://hackaday.com/wp-content/uploads/2023/02/IMG_5090-e1676441223309.jpg",
+            "publishedAt": "2023-02-18T06:00:38Z",
+            "content": "A long time ago, a laptop was a basic thing, and you could pretty much run one just by hooking up a power supply to the battery contacts. A modern MacBook is altogether fussier. However, when [Christ… [+1186 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Xataka.com"
+            },
+            "author": "Christian Ruiz",
+            "title": "Estrena smart TV con las Ofertas Límite de El Corte Inglés: precios muy bajos en televisiones inteligentes solo hasta el domingo",
+            "description": "Tal y como están los precios para ir al cine, quizás te has planteado la idea de montar uno propio en el salón de tu casa. Con la variedad de plataformas streaming que hay, solo hace falta un buen televisor para ver tus series y películas favoritas. Las Ofert…",
+            "url": "https://www.xataka.com/seleccion/estrena-smart-tv-ofertas-limite-corte-ingles-precios-muy-bajos-televisiones-inteligentes-solo-domingo",
+            "urlToImage": "https://i.blogs.es/9a0588/apertura-smart-tv-ofertas-limite-el-corte-ingles/840_560.jpeg",
+            "publishedAt": "2023-02-18T09:30:34Z",
+            "content": "Tal y como están los precios para ir al cine, quizás te has planteado la idea de montar uno propio en el salón de tu casa. Con la variedad de plataformas streaming que hay, solo hace falta un buen te… [+3710 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Xataka.com"
+            },
+            "author": "Carlos Prego",
+            "title": "Amazon quiere que sus empleados vuelvan a la oficina: \"En persona, la gente tiende a estar más comprometida\"",
+            "description": "Amazon quiere a sus empleados de vuelta a la oficina. Al menos durante la mayor parte de la semana. Así se lo ha trasladado el CEO de la multinacional, Andy Jassy, a sus empleados, a los que ha enviado una circular pública en la que desgrana sus argumentos, r…",
+            "url": "https://www.xataka.com/empresas-y-economia/amazon-quiere-que-sus-empleados-vuelvan-a-oficina-persona-gente-tiende-a-estar-comprometida",
+            "urlToImage": "https://i.blogs.es/cc5fd2/1366_2000-8-/840_560.jpeg",
+            "publishedAt": "2023-02-18T10:57:19Z",
+            "content": "Amazon quiere a sus empleados de vuelta a la oficina. Al menos durante la mayor parte de la semana. Así se lo ha trasladado el CEO de la multinacional, Andy Jassy, a sus empleados, a los que ha envia… [+4169 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Benjamin Mayo",
+            "title": "Apple TV+ shows and movies: Everything to watch on Apple TV Plus",
+            "description": "Apple TV+ offers exclusive Apple original TV shows and movies in 4K HDR quality. You can watch across all of your screens and pick up where you left off on any device. Apple TV+ costs $6.99 per month. Here’s every Apple original television show and movie avai…",
+            "url": "https://9to5mac.com/2023/02/18/apple-tv-plus-tv-shows-movies-guide/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2019/12/apple-tv-plus.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2023-02-18T11:14:50Z",
+            "content": "Apple TV+ offers exclusive Apple original TV shows and movies in 4K HDR quality. You can watch across all of your screens and pick up where you left off on any device. Apple TV+ costs $6.99 per month… [+57887 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Zac Hall",
+            "title": "Apple Studio Display firmware update available to macOS Ventura 13.3 beta testers",
+            "description": "Apple released a new round of software updates this week for iPhone, iPad, Mac, and more. Now it’s the Studio Display’s turn for Mac users running macOS 13.3 beta. Apple Studio Display 16.4 is available for monitors connected to Macs running this week’s macOS…",
+            "url": "https://9to5mac.com/2023/02/17/apple-studio-display-16-4/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/02/16.4-studio-display.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2023-02-18T00:35:42Z",
+            "content": "Apple released a new round of software updates this week for iPhone, iPad, Mac, and more. Now its the Studio Display’s turn for Mac users running macOS 13.3 beta.\r\nApple Studio Display 16.4 is availa… [+2070 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Bradley Chambers",
+            "title": "Apple @ Work: Addigy expands MalwareBytes partnership with new OneView integration",
+            "description": "Apple @ Work is brought to you by Mosyle, the only Apple Unified Platform. Mosyle is the only solution that fully integrates 5 different applications on a single Apple-only platform, allowing Businesses to easily and automatically deploy, manage & protect all…",
+            "url": "https://9to5mac.com/2023/02/18/addigy-expands-malwarebytes-integration/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/02/Addigy-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2023-02-18T11:00:00Z",
+            "content": "Apple @ Work is brought to you by Mosyle, the only Apple Unified Platform. Mosyle is the only solution that fully integrates 5 different applications on a single Apple-only platform, allowing Busines… [+5244 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "AppleInsider"
+            },
+            "author": "news@appleinsider.com (Malcolm Owen)",
+            "title": "Apple issues beta firmware update for Studio Display",
+            "description": "Apple has issued beta firmware for the Studio Display, an update that brings the software of the monitor up to version 16.4.Apple Studio DisplaySurfacing late on Friday, users of the macOS Ventura 13.3 beta are now able to install an update to a connected Stu…",
+            "url": "https://appleinsider.com/articles/23/02/18/apple-issues-beta-firmware-update-for-studio-display",
+            "urlToImage": "https://photos5.appleinsider.com/gallery/53081-106300-49733-97445-Studio-Display-setup-xl-xl.jpg",
+            "publishedAt": "2023-02-18T14:02:48Z",
+            "content": "Apple Studio Display\r\nAppleInsider may earn an affiliate commission on purchases made through links on our site.\r\nApple has issued beta firmware for the Studio Display, an update that brings the soft… [+1029 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "AppleInsider"
+            },
+            "author": "news@appleinsider.com (AppleInsider Staff)",
+            "title": "Daily deals Feb. 18: 31% off Apple Pencil Gen 2, $70 off Razer Ornata Keyboard, $100 off 34-inch Dell Curved Monitor, more",
+            "description": "Some of the hottest deals we found today include Microsoft Office Home & Business for Mac 2021 for $49.99, Presidents' Day Sales, 35% off a Samsung T7 Shield 4TB portable SSD, and more.Get $100 off a curved 34-inch Dell monitor. The AppleInsider staff searche…",
+            "url": "https://appleinsider.com/articles/23/02/18/daily-deals-feb-18-31-off-apple-pencil-gen-2-70-off-razer-ornata-keyboard-100-off-34-inch-dell-curved-monitor-more",
+            "urlToImage": "https://photos5.appleinsider.com/gallery/53080-106299-deals-feb-18-xl.jpg",
+            "publishedAt": "2023-02-18T13:12:32Z",
+            "content": "Get $100 off a curved 34-inch Dell monitor. \r\nAppleInsider may earn an affiliate commission on purchases made through links on our site.\r\nSome of the hottest deals we found today include Microsoft Of… [+2098 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.jp"
+            },
+            "author": "メディアジーンメディアコマース",
+            "title": "Apple純正のレザーウォレットが18%オフ、日本語版『ARK』がSwitchで事前予約受付中！【Amazonセール】",
+            "description": "Amazon（アマゾン）で毎日開催されているタイムセール。本日2023年2月18日は、Apple純正のレザーウォレットが18%オフ、日本語版『ARK』がSwitchで事前予約受付中など、お得な商品が多数登場しています。",
+            "url": "https://www.gizmodo.jp/2023/02/amazon-timesale-2022-0218-1.html",
+            "urlToImage": "https://media.loom-app.com/gizmodo/dist/images/2023/02/18/GIZa.jpg?w=1280&h=630&f=jpg",
+            "publishedAt": "2023-02-18T09:45:00Z",
+            "content": "Amazon2023218Apple18%ARKSwitch\r\n202321817\r\nAmazonATM\r\nAppleMagSafe18\r\n3\r\niPhone\r\nMagSafe\r\nApple\r\nAppleBelkin 3 in 1 MagSafe14%\r\n1iPhoneAppleWatchAirPods3 in 1 \r\nApple\r\nBelkin\r\nSoqool\r\nPU\r\n ARK: Survi… [+118 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Kourtnee Jackson",
+            "title": "Hey Netflix, Here's an Easy Fix to the Password-Sharing Mess - CNET",
+            "description": "Commentary: Netflix's new policy of charging fees for sharing accounts has caused a stir. To  make peace with customers, it should offer a new subscription plan.",
+            "url": "https://www.cnet.com/tech/services-and-software/netflix-the-account-sharing-blowback-may-have-an-easy-fix/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/ce6db9264ec5ed5125e040e4cf5bd16004f9c16e/hub/2023/01/19/a1a2fbb6-567a-42e6-9851-a49e059015b4/netflix-lockv2-blue-zoom-tilt.jpg?auto=webp&fit=crop&height=630&width=1200",
+            "publishedAt": "2023-02-18T12:30:02Z",
+            "content": "Your mom lives in Ohio, and you moved to New York but just kept sharing the same Netflix account. The same is true for the family whose kids are in college and for the couple living apart while one's… [+5943 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Journal du geek"
+            },
+            "author": "Journal du Geek",
+            "title": "Fort d’une réputation mondiale, cet antivirus français écœure tous les cybercriminels",
+            "description": "Cet antivirus français est en mesure de détecter et éradiquer les menaces les plus tenaces. Ce week-end, il fait l'objet d'une promotion exceptionnelle qui permet de l'avoir à -60%.\nFort d’une réputation mondiale, cet antivirus français écœure tous les cyberc…",
+            "url": "https://www.journaldugeek.com/bon-plan/fort-dune-reputation-mondiale-cet-antivirus-francais-ecoeure-tous-les-cybercriminels/",
+            "urlToImage": "https://www.journaldugeek.com/content/uploads/2022/10/anonymous.jpg",
+            "publishedAt": "2023-02-18T08:18:42Z",
+            "content": "Cet antivirus français est en mesure de détecter et éradiquer les menaces les plus tenaces. Ce week-end, il fait l'objet d'une promotion exceptionnelle qui permet de l'avoir à -60%.Avec l’invasion de… [+3772 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Journal du geek"
+            },
+            "author": "Thomas Estimbre",
+            "title": "Windows 11 fonctionne sur les Mac M1 et M2, mais il y a des hics",
+            "description": "Microsoft s’associe à Parallels pour proposer la prise en charge de Windows 11 sur les Mac équipés de puces M1 et M2. La virtualisation rend l’exécution possible, mais les limitations sont nombreuses.\nWindows 11 fonctionne sur les Mac M1 et M2, mais il y a de…",
+            "url": "https://www.journaldugeek.com/2023/02/18/windows-11-fonctionne-sur-les-mac-m1-et-m2-mais-il-y-a-des-hics/",
+            "urlToImage": "https://www.journaldugeek.com/content/uploads/2023/02/windows-machine-virtuelle-parallels-desktop-18-mac.jpg",
+            "publishedAt": "2023-02-18T08:00:45Z",
+            "content": "Microsoft sassocie à Parallels pour proposer la prise en charge de Windows 11 sur les Mac équipés de puces M1 et M2. La virtualisation rend lexécution possible, mais les limitations sont nombreuses.P… [+2821 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Applesfera.com"
+            },
+            "author": "Miguel López",
+            "title": "Los productos más bizarros que ha vendido Apple. Y ninguno es de tecnología",
+            "description": "Si si, tienes un móvil de Apple, una tableta de Apple, un ordenador de Apple, un reloj de Apple y unos auriculares de Apple. ¿Pero tienes una mesa de Apple? ¿Y una tabla de surf de Apple? No me mires así, porque estos y otros artículos existieron.\n<!-- BREAK …",
+            "url": "https://www.applesfera.com/curiosidades/productos-bizarros-que-ha-vendido-apple-ninguno-tecnologia",
+            "urlToImage": "https://i.blogs.es/99541d/captura-de-pantalla-2023-02-15-a-las-19.11.53/840_560.jpeg",
+            "publishedAt": "2023-02-18T10:00:35Z",
+            "content": "Si si, tienes un móvil de Apple, una tableta de Apple, un ordenador de Apple, un reloj de Apple y unos auriculares de Apple. ¿Pero tienes una mesa de Apple? ¿Y una tabla de surf de Apple? No me mires… [+2090 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Applesfera.com"
+            },
+            "author": "David Bernal Raspall",
+            "title": "Mientras Netflix quiere acabar con las cuentas compartidas ¿dónde queda iCloud Private Relay?",
+            "description": "Netflix lleva tiempo poniendo condiciones al uso que hacemos de sus servicios. Antes de que ￼se iniciara esta campaña en contra de las cuentas compartidas ya podías notar que se aplica para algunas restricciones. La más notable era tratar de impedir acceder a…",
+            "url": "https://www.applesfera.com/aplicaciones-ios-1/netflix-quiere-acabar-cuentas-compartidas-donde-queda-icloud-private-relay",
+            "urlToImage": "https://i.blogs.es/b95fe2/hero/840_560.jpeg",
+            "publishedAt": "2023-02-18T12:00:33Z",
+            "content": "Netflix lleva tiempo poniendo condiciones al uso que hacemos de sus servicios. Antes de que se iniciara esta campaña en contra de las cuentas compartidas ya podías notar que se aplica para algunas re… [+2561 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Caschys Blog"
+            },
+            "author": "André Westphal",
+            "title": "ChatGPT und Bard: Ohne den Niedriglohnsektor könnten sie nicht bestehen",
+            "description": "Derzeit sind ChatGPT und Googles Konter Bard in aller Munde. Microsoft implementiert die GPT-Basis auch für seine Suchmaschine Bing und seinen Browser Edge, will also quasi eine große KI-Offensive starten. Dabei gibt es viel Hype in den Medien und in...Zum Be…",
+            "url": "https://stadt-bremerhaven.de/chatgpt-und-bard-ohne-den-niedriglohnsektor-koennten-sie-nicht-bestehen/",
+            "urlToImage": "https://stadt-bremerhaven.de/wp-content/uploads/2023/02/KI-AI.jpg",
+            "publishedAt": "2023-02-18T14:00:10Z",
+            "content": "Derzeit sind ChatGPT und Googles Konter Bard in aller Munde. Microsoft implementiert die GPT-Basis auch für seine Suchmaschine Bing und seinen Browser Edge, will also quasi eine große KI-Offensive st… [+3706 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Caschys Blog"
+            },
+            "author": "Felix Frank",
+            "title": "Visa: Neue Geld-Zurück-Aktion steht in den Startlöchern",
+            "description": "Bereits in den vergangenen Jahren haben wir euch immer wieder auf die Geld-zurück-Aktionen von Visa hingewiesen. Im letzten Jahr gab es da 2 Prozent Geld zurück, wenn man mit der Visa-Karte (im stationären Handel) eingekauft hat. Hierbei war es egal,...Zum Be…",
+            "url": "https://stadt-bremerhaven.de/visa-neue-geld-zurueck-aktion-steht-in-den-startloechern/",
+            "urlToImage": "https://stadt-bremerhaven.de/wp-content/uploads/2020/03/visa-pay-with-mobile.jpg",
+            "publishedAt": "2023-02-18T12:00:04Z",
+            "content": "Bereits in den vergangenen Jahren haben wir euch immer wieder auf die Geld-zurück-Aktionen von Visa hingewiesen. Im letzten Jahr gab es da 2 Prozent Geld zurück, wenn man mit der Visa-Karte (im stati… [+1141 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Frandroid"
+            },
+            "author": "Omar Belkaab",
+            "title": "Samsung Galaxy S23 Ultra vs iPhone 14 Pro Max : lequel est le meilleur smartphone ?",
+            "description": "Duel au sommet entre le Samsung Galaxy S23 Ultra et l'iPhone 14 Pro Max d'Apple. Deux excellents smartphones du segment haut de gamme qui s'affrontent frontalement pour vous séduire (pour peu que vous ayez le budget nécessaire). Nous avons comparé point par p…",
+            "url": "https://www.frandroid.com/produits-android/smartphone/1614111_samsung-galaxy-s23-ultra-vs-iphone-14-pro-max-lequel-est-le-meilleur-smartphone",
+            "urlToImage": "https://images.frandroid.com/wp-content/uploads/2023/02/samsung-galaxy-s23-ultra-vs-iphone-14-pro-max.jpg",
+            "publishedAt": "2023-02-18T11:09:18Z",
+            "content": "Duel au sommet entre le Samsung Galaxy S23 Ultra et l'iPhone 14 Pro Max d'Apple. Deux excellents smartphones du segment haut de gamme qui s'affrontent frontalement pour vous séduire (pour peu que vou… [+16706 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Frandroid"
+            },
+            "author": "Vincent Sergère",
+            "title": "Essai Hyundai Ioniq 6 : grosse autonomie et charge ultra rapide pour rivaliser avec la Tesla Model 3",
+            "description": "Nous avons eu l'occasion d'essayer la Hyundai Ioniq 6. La nouvelle berline coréenne qui promet une excellente autonomie avec une recharge ultrarapide. Cette voiture électrique pourrait bien faire de l'ombre à la Tesla Model 3 grâce à ses capacités en longs tr…",
+            "url": "https://www.frandroid.com/marques/hyundai/1611765_essai-hyundai-ioniq-6-enfin-une-veritable-concurrente-a-la-tesla-model-3",
+            "urlToImage": "https://images.frandroid.com/wp-content/uploads/2023/02/hyundai-ioniq-6-4.jpeg",
+            "publishedAt": "2023-02-18T13:01:37Z",
+            "content": "Hyundai a frappé fort lors du lancement de sa Ioniq 6. Cette nouvelle voiture électrique a beaucoup d’avantages pour elle sur le papier. En premier lieu, il s’agit d’une berline, et non pas d’un éniè… [+24703 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slickdeals.net"
+            },
+            "author": "FasakDeals",
+            "title": "Costco Members: 64GB Apple TV 4K Streaming Player (2nd Generation) $100 + Free Shipping",
+            "description": "Costco Wholesale has for their *Members: 64GB Apple TV 4K Streaming Player* (2nd Generation, MXH02LL/A) for *$99.97*. *Shipping is free*. \n \nThanks to Community Member *FasakDeals* for finding this...",
+            "url": "https://slickdeals.net/f/16451833-costco-members-64gb-apple-tv-4k-streaming-player-2nd-generation-100-free-shipping",
+            "urlToImage": "https://static.slickdealscdn.com/attachment/6/3/9/9/9/6/3/13011901.attach",
+            "publishedAt": "2023-02-18T12:22:00Z",
+            "content": "Apple TV 4k 64 GB(2nd generation) is on sale in costco for costco members onlyFeatures:A12 Bionic Chip with 64-Bit Architecture64GB of Storage Options for Apps and GamesRedesigned Siri Remote with In… [+165 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slickdeals.net"
+            },
+            "author": "iconian",
+            "title": "LG OLED 4K TV's (2022): 48\" C2 $758, 55\" C2 $1038 + free s/h",
+            "description": "BuyDig via eBay has *48\" LG C2 Series HDR 4K Smart OLED TV* (2022, OLED48C2PUA) on sale for $946.99 - 20% off w/ coupon code PRESDAY20 = *$**757.59*. *Shipping is free*. \n \nBuyDig via eBay also has...",
+            "url": "https://slickdeals.net/f/16456666-lg-c2-4k-oled-tvs-2022-55-oled55c2pua-1038-48-oled48c2pua-758-free-shipping",
+            "urlToImage": "https://static.slickdealscdn.com/attachment/4/8/2/3/7/7/13026577.attach",
+            "publishedAt": "2023-02-18T00:00:00Z",
+            "content": "BuyDig via eBay has 48\" LG C2 Series HDR 4K Smart OLED TV (2022, OLED48C2PUA) on sale for $946.99 - 20% off w/ coupon code PRESDAY20 = $757.59. Shipping is free.BuyDig via eBay also has 55\" LG C2 Ser… [+921 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Touchlab.jp"
+            },
+            "author": "Nakimo",
+            "title": "【最大24,000円還元】Apple Storeで「新学期を始めようキャンペーン」が開催中",
+            "description": "Apple公式サイトで、学生・教職員向けに「新学期を始めよう」キャンペーンが、4月10日までの期間限定で開催されています。 【リンク】Apple公式サイト – 「新学期を始めよう」キャンペーン Appleは、 […]\nThe post 【最大24,000円還元】Apple Storeで「新学期を始めようキャンペーン」が開催中 first appeared on Touch Lab - タッチ ラボ.©2019 \"Touch Lab - タッチ ラボ\".",
+            "url": "http://touchlab.jp/2023/02/apple_backtoschool2023/",
+            "urlToImage": "http://touchlab.jp/wp-content/uploads/2023/02/apple_backtoschool_2023feb_0l.jpg",
+            "publishedAt": "2023-02-18T13:53:58Z",
+            "content": "Apple公式サイトで、学生・教職員向けに「新学期を始めよう」キャンペーンが、4月10日までの期間限定で開催されています。\n【リンク】Apple公式サイト – 「新学期を始めよう」キャンペーン\nAppleは、学生・教職員向けに「学割制度」設けており、MacやiPad等が割引価格で購入できるほか、AppleCare+が20%OFFになるなど、大変お得になっています。\n今回の「新学期を始めよう」キャ… [+989 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Andrew Davis",
+            "title": "Your Saturday UK Briefing: Sunak Goes to Munich With Northern Ireland Deal in Reach",
+            "description": "Follow us at  @BloombergUK and on  Facebook, and wrap up your day with The Readout newsletter with Allegra Stratton.Rishi Sunak makes one of his first international outings as prime minister, traveling to the Munich Security Conference to tell the world that …",
+            "url": "https://www.bloomberg.com/news/articles/2023-02-18/saturday-uk-briefing-rishi-sunak-in-munich-with-northern-ireland-protocol",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ih4qMVmMoC4M/v1/1200x675.jpg",
+            "publishedAt": "2023-02-18T11:59:25Z",
+            "content": "Follow us at \r\n@BloombergUK and on \r\nFacebook, and wrap up your day with \r\nThe Readout newsletter with Allegra Stratton.\r\nRishi Sunak makes one of his first international outings as prime minister, t… [+4583 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Motley Fool"
+            },
+            "author": "newsfeedback@fool.com (Dani Cook)",
+            "title": "Better Buy: Apple vs. Amazon",
+            "description": "As the stock market recovers, these tech giants make compelling buys in 2023.",
+            "url": "https://www.fool.com/investing/2023/02/18/better-buy-apple-vs-amazon/",
+            "urlToImage": "https://g.foolcdn.com/editorial/images/720862/teen-shows-friend-something-on-their-smart-phone.jpg",
+            "publishedAt": "2023-02-18T14:10:00Z",
+            "content": "Tech stocks have been rising in 2023 as investors grow optimistic about the prospects of a new year. The Nasdaq-100 Technology Sector index has risen 20% since Jan. 1 -- a significant improvement aft… [+3820 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Motley Fool"
+            },
+            "author": "newsfeedback@fool.com (Chris Hill, Jason Moser, and Ricky Mulvey)",
+            "title": "Twilio's Layoffs, Spotify's Strategy, and Super Bowl Ads",
+            "description": "Bloomberg entertainment reporter Lucas Shaw joins the podcast to talk about Spotify.",
+            "url": "https://www.fool.com/investing/2023/02/18/twilios-layoffs-spotifys-strategy-and-super-bowl-a/",
+            "urlToImage": "https://g.foolcdn.com/editorial/images/720667/mfm_20230213.jpg",
+            "publishedAt": "2023-02-18T13:31:00Z",
+            "content": "In this podcast, Motley Fool senior analyst Jason Moser discusses:\r\n<ul><li>How Twilio is cutting costs.</li><li>Memorable ads from Super Bowl LVII.</li></ul>Motley Fool producer Ricky Mulvey talks w… [+28498 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Motley Fool"
+            },
+            "author": "newsfeedback@fool.com (Chris Hill)",
+            "title": "Breaking Down the Latest Wall Street News: AI to Pizza",
+            "description": "Plus, sports executive Andrew Brandt discusses the business health of the NFL, how the playoffs may change, and more.",
+            "url": "https://www.fool.com/investing/2023/02/18/breaking-down-the-latest-wall-street-news/",
+            "urlToImage": "https://g.foolcdn.com/editorial/images/720421/mfm_20230210.jpg",
+            "publishedAt": "2023-02-18T13:00:00Z",
+            "content": "In this podcast, Motley Fool senior analyst Emily Flippen and Motley Fool Chief Investment Officer Andy Cross discuss:\r\n<ul><li>The growing AI battle between Microsoft and Alphabet.</li><li>Lyft shar… [+40103 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Wendy Ide",
+            "title": "Sharper review – slick con trick movie nearly pulls off a perfect crime",
+            "description": "Benjamin Caron’s enjoyable caper features a glorious turn by Julianne Moore but stumbles in the final actIt’s almost great. Benjamin Caron’s Sharper is a looping, teasing long con of a movie that traces its DNA back to David Mamet’s quick-witted hustlers and …",
+            "url": "https://www.theguardian.com/film/2023/feb/18/sharper-review-benjamin-caron-julianne-moore-slick-con-trick-movie-nearly-pulls-off-a-perfect",
+            "urlToImage": "https://i.guim.co.uk/img/media/678a7b59870b965d568ea3d0a97331f2b4a63f7c/0_0_6000_3600/master/6000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tcmV2aWV3LTQucG5n&enable=upscale&s=3fcdf5311a885b235dce37a6795ed89d",
+            "publishedAt": "2023-02-18T15:00:42Z",
+            "content": "Its almost great. Benjamin Carons Sharper is a looping, teasing long con of a movie that traces its DNA back to David Mamets quick-witted hustlers and Anjelica Hustons gloriously ruthless matriarch i… [+1482 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Deadline"
+            },
+            "author": "Nancy Tartaglione",
+            "title": "BAFTA Film Awards Weekend Party List Features New Venues & A Mega-Combo",
+            "description": "It’s BAFTA weekend here in London, and that means it’s time for our annual rundown of the festivities in store for nominees, execs and other well-heeled invitees. Notably in 2023, there’s a new venue for the Film Awards ceremony and dinner, while the roster o…",
+            "url": "https://deadline.com/2023/02/2023-bafta-film-awards-party-list-1235263192/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2023/02/bafta-richard-e-grant.jpg?w=1024",
+            "publishedAt": "2023-02-18T00:19:20Z",
+            "content": "It’s BAFTA weekend here in London, and that means it’s time for our annual rundown of the festivities in store for nominees, execs and other well-heeled invitees. Notably in 2023, there’s a new venue… [+4947 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Creative Bloq"
+            },
+            "author": "joe.foley@futurenet.com (Joseph Foley)",
+            "title": "Why I'm nervous about the rumoured Apple VR headset",
+            "description": "Will the Reality Pro live up to expectations?",
+            "url": "https://www.creativebloq.com/news/apple-vr-headset-release",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/cg2c2nHb2n9htftBDApEEm-1200-80.jpg",
+            "publishedAt": "2023-02-18T13:04:25Z",
+            "content": "We've been hearing about the rumoured Apple Reality Pro VR headset for what seems like years now. Like the Apple Car and the foldable iPhone, the date for its release seems to keep being pushed back … [+2734 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Creative Bloq"
+            },
+            "author": "joe.foley@futurenet.com (Joseph Foley)",
+            "title": "Apple's patent for a buttonless foldable device sounds wild",
+            "description": "But how practical would it be?",
+            "url": "https://www.creativebloq.com/news/apple-folding-iphone-patent",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/vP2yFSWaDqsNfckc66t3EG-1200-80.jpg",
+            "publishedAt": "2023-02-18T06:57:55Z",
+            "content": "I know, I know; we've been reporting on rumours of a folding iPhone pretty much since Steve Jobs revealed Apple's first smartphone back in 2007. But, this time there's some intriguing evidence to bac… [+3116 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Marketingdirecto.com"
+            },
+            "author": "Cynthia Reina",
+            "title": "El 48,8% de los españoles suscritos a plataformas está dispuesto a abonar menos a cambio de publicidad",
+            "description": "Uno de cada dos usuarios de Netflix estarían dispuestos a pagar menos por sus tarifas de suscripción, a cambio de incluir publicidad.\nLa entrada El 48,8% de los españoles suscritos a plataformas está dispuesto a abonar menos a cambio de publicidad se publicó …",
+            "url": "https://www.marketingdirecto.com/anunciantes-general/anunciantes/plataformas-television-pago-netflix-publicidad-precio",
+            "urlToImage": "https://www.marketingdirecto.com/wp-content/uploads/2023/02/El-488-de-los-espanoles-suscritos-a-plataformas-de-television-de-pago-esta-dispuesto-a-abonar-menos-a-cambio-de-publicidad-destacada.jpg",
+            "publishedAt": "2023-02-18T10:50:00Z",
+            "content": "Uno de cada dos usuarios de Netflix estarían dispuestos a pagar menos por sus tarifas de suscripción, a cambio de incluir publicidad.«Uno de cada dos usuarios de Netflix estarían dispuestos a pagar m… [+1895 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nextpit.de"
+            },
+            "author": "Edwin Kee",
+            "title": "Kräftig sparen: Kostenlose Android- und iOS-Apps der Woche",
+            "description": "Auch dieses Wochenende haben wir wieder Android- und iOS-Apps und -Games für Euch gefunden, die für kurze Zeit kostenlos sind.(Dies ist ein Teaser - klick hier, um den kompletten Beitrag zu lesen)",
+            "url": "https://www.nextpit.de/kostenlose-apps-2023-02-07",
+            "urlToImage": "https://fscl01.fonpit.de/userfiles/7687254/image/NextPit_Apps.jpg",
+            "publishedAt": "2023-02-18T09:00:00Z",
+            "content": "Es ist Samstag, höchste Zeit also die Beine hochzulegen und mal auf dem Smartphone zu checken, was das Internet heute zu bieten hat. Schaut Ihr gerade in exakt dieser Ecke des Internets vorbei, bekom… [+4634 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Indian Express"
+            },
+            "author": "Tech Desk",
+            "title": "Top 6 camera-centric phones with the best zooming capabilities you can buy",
+            "description": "From Galaxy S23 Ultra to the Vivo X80 Pro, here are the top phones that let you close in on your subject with the best clarity.",
+            "url": "https://indianexpress.com/article/technology/tech-news-technology/best-zoom-camera-phones-to-buy-galaxy-s23-ultra-vivo-x80-pro-8453045/",
+            "urlToImage": "https://images.indianexpress.com/2023/02/Samsung-Galaxy-S23-Ultra-Express-Photo.jpg",
+            "publishedAt": "2023-02-18T12:15:26Z",
+            "content": "Smartphone cameras have come a long way, with many devices offering impressive zoom capabilities that can even rival some dedicated cameras. The Samsung Galaxy S23 Ultra is possibly the best choice i… [+2414 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nextpit.de"
+            },
+            "author": "Jade Bryan",
+            "title": "Apple iMessage: Textnachrichten bald mit Eurer Stimme vorlesen lassen",
+            "description": "Apple plant iMessage-Nachrichten in Zukunft mit Eurer Stimme vorlesen zu lassen. Dafür ermittelt eine KI ein Stimmenprofil aus vorhandenem Audiomaterial.(Dies ist ein Teaser - klick hier, um den kompletten Beitrag zu lesen)",
+            "url": "https://www.nextpit.de/apple-imessage-textnachrichten-bald-mit-eurer-stimme-vorlesen-lassen",
+            "urlToImage": "https://fscl01.fonpit.de/userfiles/7695213/image/Apple-iPhone-14-Plus/Apple-iPhone-14-Plus-8.jpg",
+            "publishedAt": "2023-02-18T07:00:01Z",
+            "content": "Euer Stimmprofil, das ihr mit anderen teilen könnt\r\nMit dem neuen Apple-Patent will der iPhone-Hersteller die Textnachrichten weiter verbessern, indem er sie personalisiert und mit Sprachprofilen ver… [+2416 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nextpit.de"
+            },
+            "author": "Benjamin Lucks",
+            "title": "OnePlus Buds Pro 2 im Test: Im \"Walled Garden\" verblüht",
+            "description": "Wie schlagen sich die neuen OnePlus Buds Pro 2 im Test? NextPit-Redakteur Ben liebt die Vorgänger und verrät Euch seine Meinung!(Dies ist ein Teaser - klick hier, um den kompletten Beitrag zu lesen)",
+            "url": "https://www.nextpit.de/oneplus-buds-pro-2-test",
+            "urlToImage": "https://fscl01.fonpit.de/userfiles/7695213/image/oneplus-buds-pro-2/OnePlus-Buds-Pro-2-NextPit-Review-10.jpeg",
+            "publishedAt": "2023-02-18T14:00:00Z",
+            "content": "Mit den OnePlus Buds Pro 2 hat die ehemalige Oppo-Tochter neue In-Ear-Bluetooth-Kopfhörer auf den Markt gebracht. Für Fans ist das spannend, da die Smartphones des Unternehmens hierzulande noch immer… [+13807 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "DIE WELT"
+            },
+            "author": "Sascha Lehnartz",
+            "title": "Manifest für Dackel",
+            "description": "Anfang der Woche schmierte Ballettdirektor Marco Goecke Hundekot in das Gesicht einer ungeliebten Kritikerin. Komplize: Sein inkontinenter Dackel. Unterdessen sammeln Alice Schwarzer und Sahra Wagenknecht Unterschriften für den Frieden. Darum geht es im satir…",
+            "url": "https://www.welt.de/podcasts/article243820541/Manifest-fuer-Dackel-Podcast.html",
+            "urlToImage": "https://img.welt.de/img/podcasts/mobile242610819/9331352627-ci16x9-w1200/WELT-Chefkorrespondent-Dr-Sascha-Lehnartz.jpg",
+            "publishedAt": "2023-02-18T05:02:05Z",
+            "content": "Abonnieren Sie den Podcast unter anderem bei Spotify, Apple Podcasts, Amazon Music oder direkt per RSS-Feed.\r\nUkraine-Krieg, Ampelregierung und Energie-Krise jeden Morgen gibt es neue Schlagzeilen. I… [+779 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "DIE WELT"
+            },
+            "author": "WELT",
+            "title": "Drohschreiben gegen Grünen-Spitzenkandidatin Bettina Jarasch",
+            "description": "„Jetzt bist du tot“: Die Polizei hat ein Schreiben an die Berliner Verkehrssenatorin Bettina Jarasch (Grüne) bestätigt, das mit einer Todesdrohung versehen war. Der Staatsschutz des Landeskriminalamtes ermittelt wegen Bedrohung.",
+            "url": "https://www.welt.de/politik/deutschland/article243835665/Bettina-Jarasch-Todesdrohung-gegen-Berliner-Gruenen-Spitzenkandidatin.html",
+            "urlToImage": "https://img.welt.de/img/regionales/berlin/mobile243711271/6911351917-ci16x9-w1200/Bettina-Jarasch.jpg",
+            "publishedAt": "2023-02-18T02:35:07Z",
+            "content": "Im Büro der Grünen-Fraktion des Berliner Abgeordnetenhauses ist ein Drohbrief gegen Spitzenkandidatin und Verkehrssenatorin Bettina Jarasch eingetroffen. Das bestätigte ein Polizeisprecher am Freitag… [+1898 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gadgethacks.com"
+            },
+            "author": "Justin Meyers",
+            "title": "Safari Finally Has More Dark Mode Powers for Your iPhone, Making Night Web Surfing More Comfortable",
+            "description": "Not all websites are created equal, and that's why Safari doesn't apply Dark Mode to each webpage you visit during your iPhone's system-wide dark appearance. But in Safari's latest update, Apple gives its web browser more power to automatically apply Dark Mod…",
+            "url": "https://ios.gadgethacks.com/how-to/safari-finally-has-more-dark-mode-powers-for-your-iphone-making-night-web-surfing-more-comfortable-0385325/",
+            "urlToImage": "https://img.gadgethacks.com/img/82/19/63812246182184/0/safari-finally-has-more-dark-mode-powers-for-your-iphone-making-night-web-surfing-more-comfortable.1280x600.jpg",
+            "publishedAt": "2023-02-18T00:04:00Z",
+            "content": "Not all websites are created equal, and that's why Safari doesn't apply Dark Mode to each webpage you visit during your iPhone's system-wide dark appearance. But in Safari's latest update, Apple give… [+1537 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gadgethacks.com"
+            },
+            "author": "Justin Meyers",
+            "title": "26 Hot New Features iOS 16.4 Has in Store for Your iPhone",
+            "description": "Apple's iOS 16.3 update for iPhone had impressive new features, but iOS 16.4 might impress you even more.\n\nThe latest update for iPhone already has more upgrades than its predecessor, and it's currently only in its first beta stage. Apple has said that the iO…",
+            "url": "https://ios.gadgethacks.com/how-to/26-hot-new-features-ios-16-4-has-store-for-your-iphone-0385323/",
+            "urlToImage": "https://img.gadgethacks.com/img/69/15/63812270181606/0/26-hot-new-features-ios-16-4-has-store-for-your-iphone.1280x600.jpg",
+            "publishedAt": "2023-02-18T07:12:00Z",
+            "content": "Apple's iOS 16.3 update for iPhone had impressive new features, but iOS 16.4 might impress you even more.\r\nThe latest update for iPhone already has more upgrades than its predecessor, and it's curren… [+12996 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Tomshw.it"
+            },
+            "author": "Nicholas Massa",
+            "title": "Libri, fumetti e videogiochi: tutte le serie tv in uscita nel 2023",
+            "description": "Se interessati a scoprire quali serie tv tratte da fumetti, libri e videogiochi in uscita nel 2023, siete nel posto giusto.",
+            "url": "https://www.tomshw.it/culturapop/libri-fumetti-videogiochi-serie-tv-uscita-2023/",
+            "urlToImage": "https://www.tomshw.it/images/images/2023/02/fumetti-serie-tv-in-uscita-2023-267608.jpg",
+            "publishedAt": "2023-02-18T09:00:50Z",
+            "content": "Cinema e Serie TV Libri, fumetti e videogiochi: tutte le serie tv in uscita nel 2023\r\nTom's Hardware vive grazie al suo pubblico. Quando compri qualcosa dai nostri link, potremmo guadagnare una commi… [+12114 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Le HuffPost"
+            },
+            "author": "Le HuffPost",
+            "title": "Cette interview de Vincent Cassel sur la masculinité et Andrew Tate a du mal à passer",
+            "description": "À l’affiche de la série « Liaison » pour Apple TV+, l’acteur français a défendu une position assez singulière sur le rapport à la masculinité, évoquant aussi  le célèbre influenceur masculiniste.l",
+            "url": "https://www.huffingtonpost.fr/people/article/vincent-cassel-denonce-la-perte-de-masculinite-et-evoque-andrew-tate_214253.html",
+            "urlToImage": "https://huffpost-focus.sirius.press/2023/02/18/53/0/4102/2307/1820/1024/75/0/6064fea_1676719613598-000-33947lx.jpg",
+            "publishedAt": "2023-02-18T11:54:19Z",
+            "content": "CINÉMA - Vincent Cassel navait pas la langue dans sa poche. Dans un article du Guardian, publié ce vendedi 17 février, lacteur français na pas manqué de faire réagir avec ses déclarations sur la masc… [+3776 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Matías S. Zavia",
+            "title": "Filtrado el diseño del iPhone 15 Pro con puerto USB-C, botones capacitivos y cámaras aún más grandes",
+            "description": "Ya hemos llegado a ese punto del ciclo de noticias en el que empezamos a ver renders del próximo iPhone basados en archivos esquemáticos filtrados.Read more...",
+            "url": "https://es.gizmodo.com/filtrado-el-diseno-del-iphone-15-pro-con-puerto-usb-c-1850130770",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/38e29cd33654ff50a769568496f43409.jpg",
+            "publishedAt": "2023-02-18T00:37:00Z",
+            "content": "Ya hemos llegado a ese punto del ciclo de noticias en el que empezamos a ver renders del próximo iPhone basados en archivos esquemáticos filtrados.\r\nEn esta ocasión, 9to5Mac dice haber obtenido un mo… [+1727 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "desire.athow@futurenet.com (Desire Athow)",
+            "title": "Mac Pro 2023: It’s now or never, Apple, your customers are waiting",
+            "description": "Will the Mac Pro be introduced in March 2023 alongside the M2 Ultra chip? We’re not sure.",
+            "url": "https://www.techradar.com/news/mac-pro-2023-its-now-or-never-apple-your-customers-are-waiting",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/es8EH3XV7B8txrhPLhEM4J-1200-80.jpg",
+            "publishedAt": "2023-02-18T04:00:00Z",
+            "content": "On March 8, 2022, the Mac Studio, then Apple’s most powerful computer ever, was introduced, leaving many Mac Pro users slightly befuddled and confused. Even more so when Apple’s senior vice president… [+5818 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "David Nield",
+            "title": "iPhone 15 Pro leak shows off an updated design for Apple's premium phone",
+            "description": "Thinner bezels, extra curves, a thicker camera bump, USB-C – the latest iPhone 15 leak reveals quite a lot.",
+            "url": "https://www.techradar.com/news/iphone-15-pro-leak-shows-off-an-updated-design-for-apples-premium-phone",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/W2m4dBN436AsRDV29pamxY-1200-80.jpg",
+            "publishedAt": "2023-02-18T12:30:32Z",
+            "content": "The iPhone 15 leaks and rumors aren't showing any signs of stopping, and we now have new renderings of the Pro model of the flagship that's expected in September – a rendering which shows quite a few… [+2421 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "hamish.hector@futurenet.com (Hamish Hector)",
+            "title": "I spent a week working in VR using my Meta Quest Pro so you don’t have to",
+            "description": "I used my Meta Quest Pro to work in VR for a week, and I hated it.",
+            "url": "https://www.techradar.com/news/i-spent-a-week-working-in-vr-using-my-meta-quest-pro-so-you-dont-have-to",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/ZACJ2WwaUpJzTZYRWE6qTR-1200-80.png",
+            "publishedAt": "2023-02-18T10:00:03Z",
+            "content": "For the past week, I’ve been using my Meta Quest Pro to work inside the metaverse. \r\nEach morning I’ve slipped my VR headset on, booted up Horizon Workrooms, and swapped my home office for a swanky c… [+7065 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Numerama"
+            },
+            "author": "Maxime Claudel",
+            "title": "Serait-ce la première photo d’un iPhone 15 Pro équipé d’un port USB-C ?",
+            "description": "Alors qu'il n'est pas attendu avant la rentrée prochaine, l'iPhone 15 Pro fait déjà l'objet de fuites. Une photo montre par exemple sa tranche inférieure, arborant un port USB-C. En septembre prochain, sauf improbable révolution dans ses habitudes, Apple dévo…",
+            "url": "https://www.numerama.com/tech/1275194-serait-ce-la-premiere-photo-dun-iphone-15-pro-equipe-dun-port-usb-c.html",
+            "urlToImage": "https://www.numerama.com/wp-content/uploads/2023/02/fph5bqbxoaizeot.jpeg",
+            "publishedAt": "2023-02-18T11:22:09Z",
+            "content": "Alors quil nest pas attendu avant la rentrée prochaine, liPhone 15 Pro fait déjà lobjet de fuites. Une photo montre par exemple sa tranche inférieure, arborant un port USB-C. \r\nEn septembre prochain,… [+2502 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Ollie Barder, Contributor, \n Ollie Barder, Contributor\n https://www.forbes.com/sites/olliebarder/",
+            "title": "The Story Of ‘Tetris’ Is Finally Getting The Movie Treatment, With Togo Igawa As A Spot On Hiroshi Yamauchi",
+            "description": "The story of 'Tetris', specifically the battle for its elusive rights, is pretty legendary when it comes to gaming history. So covering that in a single movie is no mean feat, but with this new movie from Apple on the way they at least look like they got the …",
+            "url": "https://www.forbes.com/sites/olliebarder/2023/02/17/the-story-of-tetris-is-finally-getting-the-movie-treatment-with-togo-igawa-as-a-spot-on-hiroshi-yamauchi/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/63f05078d7a45253d22ed11f/0x0.jpg?format=jpg&width=1200",
+            "publishedAt": "2023-02-18T04:21:45Z",
+            "content": "Togo Igawa will portray Nintendo president Hiroshi Yamauchi in this new 'Tetris' movie.\r\nApple TV+\r\nThe story of Tetris, specifically the battle for its elusive rights, is pretty legendary when it co… [+2115 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Andy Wang, Contributor, \n Andy Wang, Contributor\n https://www.forbes.com/sites/andywang-1/",
+            "title": "B.J. Novak’s Restaurant Pop-Up Creates ‘Scream’-Worthy Burger",
+            "description": "Chain, a mischief-loving pop-up that has lovingly reinterpreted iconic dishes from Taco Bell, Chili’s and other chain restaurants, is serving up the Stabby Meal.",
+            "url": "https://www.forbes.com/sites/andywang/2023/02/17/bj-novaks-restaurant-pop-up-creates-scream-worthy-burger/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/63effa6ad1958a1136b8d5ae/0x0.jpg?format=jpg&width=1200",
+            "publishedAt": "2023-02-18T00:31:59Z",
+            "content": "Chain takes a stab at fast food burgers with its latest drop.\r\nJustin Slade McClain\r\nWhat if you think youre in on the joke and you get murdered anyway? Also, whats your favorite scary fast food meal… [+2819 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Michael Foster, Contributor, \n Michael Foster, Contributor\n https://www.forbes.com/sites/michaelfoster/",
+            "title": "If 2023 Is A Replay Of 2016, These 9% Dividends Will Soar",
+            "description": "From what I can see, this year is setting up to be another 2016—and that’s likely to hand us a buying opportunity in our favorite high-yield investments.",
+            "url": "https://www.forbes.com/sites/michaelfoster/2023/02/18/if-2023-is-a-replay-of-2016-these-9-dividends-will-soar/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/63ebc1623ad7eeb9bfafaafe/0x0.jpg?format=jpg&width=1200",
+            "publishedAt": "2023-02-18T13:15:00Z",
+            "content": "February 2016 monthly calendar on white background.\r\ngetty\r\nFrom what I can see, this year is setting up to be another 2016and thats likely to hand us a buying opportunity in our favorite high-yield … [+3390 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Jason R. Rich, Forbes Staff, \n Jason R. Rich, Forbes Staff\n https://www.forbes.com/sites/forbes-personal-shopper/people/jasonrich/",
+            "title": "The Best Android Phones That Do Everything (And Make Calls, Too)",
+            "description": "Thanks to an vast selection and enormous variety, Android phones are a great alternative to Apple's iPhone. These are the best Android phones you can buy today.",
+            "url": "https://www.forbes.com/sites/forbes-personal-shopper/article/best-android-phones/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/63e6745040d4a501b7724fec/0x0.jpg?format=jpg&width=1200",
+            "publishedAt": "2023-02-18T00:13:49Z",
+            "content": "If you want a phone packed with the latest technology and tons of customization, youll inevitably look towards one of the best Android phones, such as our pick for best overall, the Samsung Galaxy S2… [+17485 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Kara Cuzzone, Forbes Staff, \n Kara Cuzzone, Forbes Staff\n https://www.forbes.com/sites/forbes-personal-shopper/people/karacuzzone/",
+            "title": "The Best Presidents’ Day Sales, All In One Place",
+            "description": "The best Presidents' Day sales are live, and this weekend is shaping up to be a great opportunity to save. Here are the best deals you can get now.",
+            "url": "https://www.forbes.com/sites/forbes-personal-shopper/2023/02/18/presidents-day-sales/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/63f0e8b22445018b8f2ed11a/0x0.jpg?format=jpg&width=1200",
+            "publishedAt": "2023-02-18T15:09:59Z",
+            "content": "The best Presidents Day sales are now live, giving you the opportunity to score savings on big purchasesand smaller ones, too. As shopping pros, we can tell you that long holiday weekends are an exce… [+10698 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Jason R. Rich, Forbes Staff, \n Jason R. Rich, Forbes Staff\n https://www.forbes.com/sites/forbes-personal-shopper/people/jasonrich/",
+            "title": "Get Cosmic Savings On A New Samsung Galaxy S23 Smartphone",
+            "description": "Samsung debuted its latest flagship series of Android phones, including the Samsung Galaxy S23, Galaxy S23+ and S23 Ultra. We break down what's new so you can buy one now.",
+            "url": "https://www.forbes.com/sites/forbes-personal-shopper/2023/02/18/pre-order-samsung-galaxy-s23-phone/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/63ef8f6e95fd991b762ed0fa/0x0.jpg?format=jpg&width=1200",
+            "publishedAt": "2023-02-18T14:09:32Z",
+            "content": "Its finally here. If you've been waiting to get your hands on the new Samsung Galaxy S23 Ultra, Galaxy S23+ or Galaxy S23 smartphone, all three models are now shipping. But, if you want to enjoy the … [+16204 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hdblog.it"
+            },
+            "author": "HDblog.it",
+            "title": "Oppo siede coi grandi, Musk ne fa un'altra: idee per il futuro di Twitter? | HDrewind 7",
+            "description": "Il racconto delle notizie più significative (e curiose) della settimana.",
+            "url": "https://www.hdblog.it/tecnologia/speciali/n566543/migliori-notizie-tech-settimana-723-hdrewind/",
+            "urlToImage": "https://hd2.tudocdn.net/1065325?w=1920",
+            "publishedAt": "2023-02-18T10:40:00Z",
+            "content": "Eccoci con un nuovo HDrewind, l'appuntamento in cui vi raccontiamo in chiave diversa le notizie più significative e le curiosità della settimana. Siamo alla settima settimana del 2023. Nonostante si … [+9700 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Antyweb.pl"
+            },
+            "author": "Krzysztof Rojek",
+            "title": "OneUI 5.1 jak iOS 16. Pod względem apetytu na baterię",
+            "description": "Aktualizacja do OneUI 5.1 trochę Samsungowi nie wyszła. Użytkownicy już skarżą się, żę system mocno skraca czas pracy na jednym ładowaniu.\n \n The post OneUI 5.1 jak iOS 16. Pod względem apetytu na baterię appeared first on AntyWeb.",
+            "url": "https://antyweb.pl/oneui-5-1-jak-ios-samsung",
+            "urlToImage": "https://antyweb.pl/img/1250/550/fit/wp-content/uploads/2023/02/flr0akb4ae/galaxy8.jpg",
+            "publishedAt": "2023-02-18T14:00:20Z",
+            "content": "Wdroenie nowej wersji iOS w 2022 roku byo umiarkowanym sukcesem. Uytkownikom podobay si nowe systemy personalizacji ekranu startowego i inne zmiany, które wprowadzio Apple. Jednak te dyskusje szybko … [+2131 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cool3c.com"
+            },
+            "author": "Mash Yang",
+            "title": "微軟正式確認 Parallels Desktop 在 Arm 架構 Mac 上安裝 Windows 的授權合法性 但功能上並未作調整",
+            "description": "目前Arm架構Mac採用Parallels Desktop相容方式依然無法對應32位元的Arm架構應用程式，部分驅動程式依然需要透過模擬方式使用，而在Arm架構上執行x86架構應用程式的效能相對也會因為模擬方式受限。 在微軟稍早更新技術支援頁面中，微軟確定將可讓使用者自行購買Windows 11 Pro合法授權版本，並且能配合Parallels Desktop用於搭載Apple Silicon處理器的Mac機種。 在此之前，雖然使用者可以透過Windows Insider Program計畫，自行下載以測試使用為…",
+            "url": "https://www.cool3c.com/article/189558",
+            "urlToImage": "https://sw.cool3c.com/article/2023/cfd70f87-6ca4-43a5-a2d3-a89680df0d4e.jpg?fit=max&w=1400&q=80",
+            "publishedAt": "2023-02-18T03:03:35Z",
+            "content": "ArmMacParallels Desktop32ArmArmx86\r\nWindows 11 ProParallels DesktopApple SiliconMac\r\nWindows Insider ProgramArmWindows 10Windows 11Apple SiliconMac\r\nWindows 11 ProParallels DesktopApple SiliconMacWin… [+109 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Iphoneitalia.com"
+            },
+            "author": "Giuseppe Migliorino",
+            "title": "Apple lancia un programma per trovare nuovi registi",
+            "description": "Come trovare nuovi registi per i contenuti originali su Apple TV+?\nLink all'articolo originale: Apple lancia un programma per trovare nuovi registi",
+            "url": "https://www.iphoneitalia.com/804961/apple-studios-directors-program-registi",
+            "urlToImage": "https://static.iphoneitalia.com/wp-content/uploads/2023/02/Apple-Studios-Directors-Program.jpg",
+            "publishedAt": "2023-02-18T13:59:59Z",
+            "content": "Apple ha svelato il nuovo “Apple Studios Directors Program” della durata di sei mesi che vedrà diversi registi lavorare a contatto con il team Apple TV+.\r\nLa maggior parte delle serie Apple TV+ sono … [+1462 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Iphoneitalia.com"
+            },
+            "author": "Giuseppe Migliorino",
+            "title": "Apple ha organizzato un evento per mostrare “il futuro dei giochi” sui suoi dispositivi",
+            "description": "Un'anteprima dei giochi in arrivo nel 2023 su iPhone, iPad e Mac. \nLink all'articolo originale: Apple ha organizzato un evento per mostrare “il futuro dei giochi” sui suoi dispositivi",
+            "url": "https://www.iphoneitalia.com/804975/apple-evento-giochi-2023",
+            "urlToImage": "https://static.iphoneitalia.com/wp-content/uploads/2023/02/call-of-duty-iphone.jpg",
+            "publishedAt": "2023-02-18T08:18:16Z",
+            "content": "Questa settimana, Apple ha invitato vari membri della stampa e influencer a dare un’occhiata più da vicino ai giochi in arrivo su iPhone, iPad, Apple TV e Mac.\r\nCome riporta Tom’s Guide, l’evento ha … [+2914 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Iphoneitalia.com"
+            },
+            "author": "Giuseppe Migliorino",
+            "title": "WhatsApp introduce il picture-in-picture per le videochiamate",
+            "description": "Arriva su WhatsApp una novità attesa da molti utenti. \nLink all'articolo originale:  WhatsApp introduce il picture-in-picture per le videochiamate",
+            "url": "https://www.iphoneitalia.com/804992/whatsapp-picture-in-picture-videochiamate",
+            "urlToImage": "https://static.iphoneitalia.com/wp-content/uploads/2021/12/whatsapp.jpg",
+            "publishedAt": "2023-02-18T09:06:17Z",
+            "content": "WhatsApp lancia un importante aggiornamento per la sua app per iPhone. Gli utenti potranno ora utilizzare la funzione picture-in-picture durante le videochiamate, in modo che la chiamata non venga in… [+1622 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Olhardigital.com.br"
+            },
+            "author": "Rodrigo Mozelli",
+            "title": "Amazon quer que seus trabalhadores retornem aos escritórios em maio",
+            "description": "Trabalho será híbrido, sendo dois dias em casa\nO post Amazon quer que seus trabalhadores retornem aos escritórios em maio apareceu primeiro em Olhar Digital.",
+            "url": "https://olhardigital.com.br/2023/02/18/pro/amazon-quer-que-seus-trabalhadores-retornem-aos-escritorios-em-maio/",
+            "urlToImage": "https://img.olhardigital.com.br/wp-content/uploads/2022/11/shutterstock_1649472190-1.jpg",
+            "publishedAt": "2023-02-18T03:30:22Z",
+            "content": "ApÃ³s dizer em setembro passado que nÃ£o tinha planos para que os funcionÃ¡rios voltassem ao escritÃ³rio, a Amazon agora parece ter mudado de ideia.\r\nO CEO da Amazon, Andy Jassy, diz que os funcionÃ¡… [+2359 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Olhardigital.com.br"
+            },
+            "author": "Rodrigo Mozelli",
+            "title": "Meta distribui milhares de notas ruins a seus trabalhadores",
+            "description": "Fontes apontam que medida pode significar novos cortes em breve\nO post Meta distribui milhares de notas ruins a seus trabalhadores apareceu primeiro em Olhar Digital.",
+            "url": "https://olhardigital.com.br/2023/02/18/pro/meta-distribui-milhares-de-notas-ruins-a-seus-trabalhadores/",
+            "urlToImage": "https://img.olhardigital.com.br/wp-content/uploads/2023/01/shutterstock_2065679765.jpg",
+            "publishedAt": "2023-02-18T04:26:27Z",
+            "content": "A Meta, dona do Facebook, deu a milhares de funcionÃ¡rios classificaÃ§Ãµes abaixo da mÃ©dia em rodada de avaliaÃ§Ãµes de desempenho recentemente concluÃ­da, um sinal de que mais cortes de empregos po… [+4954 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Actualidadiphone.com"
+            },
+            "author": "Manuel Alonso",
+            "title": "Estas son las novedades que tendremos con iOS 16.4",
+            "description": "Con la beta de iOS 16.4 se van a introducir muchas novedades que os contamos en esta entrada. Algunas de ellas muy interesantes",
+            "url": "https://www.actualidadiphone.com/estas-son-las-novedades-que-tendremos-con-ios-16-4/",
+            "urlToImage": "https://www.actualidadiphone.com/wp-content/uploads/2023/02/iOS-16.4.jpg",
+            "publishedAt": "2023-02-18T11:00:16Z",
+            "content": "Apple acaba de lanzar la nueva beta de la que será la nueva versión del sistema operativo para el iPhone. Tenemos ahora mismo en cartera iOS 16.4 y aunque sólo está disponible, de momento para desarr… [+5118 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Elotrolado.net"
+            },
+            "author": "Benzo",
+            "title": "Las noticias de la semana (#7 2023)",
+            "description": "<table><tr><td></td></tr></table>Esta semana Sony ha puesto en marcha toda la maquinaria para dar una cálida bienvenida a PlayStation VR2, el nuevo dispositivo de realidad virtual al que hemos visto mediante un unboxing y un despiece. También se ha presentado…",
+            "url": "https://www.elotrolado.net/noticias/juegos/semana-7-2023",
+            "urlToImage": "https://images.elotrolado.net/headers/upload/e/4/e4655e_game-pass_news.jpg?1200",
+            "publishedAt": "2023-02-18T10:36:23Z",
+            "content": "Esta semana Sony ha puesto en marcha toda la maquinaria para dar una cálida bienvenida a PlayStation VR2, el nuevo dispositivo de realidad virtual al que hemos visto mediante un unboxing y un despiec… [+2715 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Eonline.com"
+            },
+            "author": "Marenah Dobin",
+            "title": "The 92 Best Presidents’ Day Deals on Home, Tech, and Travel Products",
+            "description": "We independently selected these deals and products because we love them, and we think you might like them at these prices. E! has affiliate relationships, so we may get a commission if you...",
+            "url": "https://www.eonline.com/news/1365393/presidents-day-deals-home-tech-travel",
+            "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2023117/rs_1200x1200-230217114555-1200-ecomm-Presidents_Day_Home_Tech_and_Travel_Deals-gj.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
+            "publishedAt": "2023-02-18T15:00:00Z",
+            "content": "This TV has 4,400+ 5-star reviews from Walmart shoppers. It has crisp 720p resolution and it supports Netflix, Disney+, HBO Max, Hulu, Apple TV, Showtime, Peacock, ESPN, Spotify, Roku and thousands m… [+594 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "redmondpie.com"
+            },
+            "author": "Oliver Haslam",
+            "title": "Save $350 On The Thin And Light Acer Swift 5 Laptop With 12th-Gen Core i7, Iris Xe Graphics, More",
+            "description": "Amazon is now selling the Acer Swift 5 laptop for just $1,199.99, a price that is unlikely to stick around for long. If you want to take advantage of this deal we would definitely suggest that you do it now, before it's too late.\nThe post Save $350 On The Thi…",
+            "url": "https://www.redmondpie.com/save-350-on-the-thin-and-light-acer-swift-5-laptop-with-12th-gen-core-i7-iris-xe-graphics-more/",
+            "urlToImage": "https://cdn.redmondpie.com/wp-content/uploads/2023/02/Swift-5-laptop-1.jpg",
+            "publishedAt": "2023-02-18T12:25:35Z",
+            "content": "Amazon is now selling the Acer Swift 5 laptop for just $1,199.99, a price that is unlikely to stick around for long. If you want to take advantage of this deal we would definitely suggest that you do… [+1516 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "redmondpie.com"
+            },
+            "author": "Oliver Haslam",
+            "title": "Bose Portable Smart Speaker With Built-In Alexa And Powerful Bass Is 20% Off",
+            "description": "If you've ever fancied picking up a Bose Portable Smart Speaker but didn't want to spend the money needed to get one, now is your time to shine. Now you can pick one up and save 20% in the process.\nThe post Bose Portable Smart Speaker With Built-In Alexa And …",
+            "url": "https://www.redmondpie.com/bose-portable-smart-speaker-with-built-in-alexa-and-powerful-bass-is-20-off/",
+            "urlToImage": "https://cdn.redmondpie.com/wp-content/uploads/2023/02/Bose-portable-smart-speaker-2.jpg",
+            "publishedAt": "2023-02-18T12:32:59Z",
+            "content": "If you’ve ever fancied picking up a Bose Portable Smart Speaker but didn’t want to spend the money needed to get one, now is your time to shine. Now you can pick one up and save 20% in the process.\r\n… [+1701 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Index.hu"
+            },
+            "author": "Gábor Zoltán",
+            "title": "Igazi szörnyeteg lett a Samsung új zászlóshajója",
+            "description": "Igazi szörnyeteg lett a Samsung új zászlóshajója - Teszten a Galaxy S23 Ultra.",
+            "url": "https://index.hu/tech/cellanaplo/2023/02/18/samsung-galaxy-s23-ultra-telefon-teszt/",
+            "urlToImage": "https://kep.cdn.index.hu/1/0/4757/47571/475715/47571586_3626854_da6f33634d09e1a084eb85a90233fa57_wm.jpg",
+            "publishedAt": "2023-02-18T10:39:00Z",
+            "content": "Több hónapnyi folyamatos szivárogtatás után február els napján a Samsung végre bemutatta új készülékcsaládját, a Galaxy S23-at, a Galaxy S23+-t, és a Galaxy S23 Ultrát. Egy korábbi cikkünkben már kiv… [+9077 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ProPublica"
+            },
+            "author": "by Annie Waldman",
+            "title": "Senators Demand Answers About “Alarming” Reports of Excessive and Risky Artery Procedures on Veterans",
+            "description": "by Annie Waldman \n \n\n \n \n ProPublica is a nonprofit newsroom that investigates abuses of power. Sign up to receive our biggest stories as soon as they’re published.\n\n \n\n \n\n \n \n\n\n\n \nJust hours after ProPublica, in collaboration with The Wichita Eagle, revealed…",
+            "url": "https://www.propublica.org/article/medtronic-kansas-veterans-affairs-cathlab",
+            "urlToImage": "https://img.assets-d.propublica.org/v5/images/20230218-Arterial-Motives-impact-folo.jpg?crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&imgixProfile=propublicaAssetsV5&q=90&w=1200&s=b2fd46416e0bc9daabd4abf4a59e17f4",
+            "publishedAt": "2023-02-18T10:00:00Z",
+            "content": "ProPublica is a nonprofit newsroom that investigates abuses of power. Sign up to receive our biggest stories as soon as theyre published.\r\nJust hours after ProPublica, in collaboration with The Wichi… [+7438 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Everything-everywhere.com"
+            },
+            "author": "Gary Arndt",
+            "title": "The History of Artificial Sweeteners",
+            "description": "Podcast Transcript In 1879, Constantin Fahlberg, a chemist at Johns Hopkins University, made an astonishing discovery. He was conducting experiments with coal tar when he forgot to wash his hands.  When he started eating lunch, he noticed something odd. His f…",
+            "url": "https://everything-everywhere.com/the-history-of-artificial-sweeteners/",
+            "urlToImage": "https://photos.smugmug.com/Other/n-hRFP2/Podcast-Images/i-jtFpKsx/0/9c3d5657/L/Artificial%20sweeteners-L.png",
+            "publishedAt": "2023-02-18T05:09:40Z",
+            "content": "Subscribe Apple | Google | Spotify | Amazon | Player.FM | TuneInCastbox | Stitcher | Podcast Republic | RSS | Patreon | Podvine | Goodpods\r\nIn 1879, Constantin Fahlberg, a chemist at Johns Hopkins Un… [+12190 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cult of Mac"
+            },
+            "author": "Scout Tafoya",
+            "title": "Dear Edward takes a predictable path to boredom [Apple TV+ recap] ★☆☆☆☆",
+            "description": "This week on the Apple TV+ series about the daisy chain of grief after a plane crash, Edward learns his dead brother had a secret girlfriend.\n(via Cult of Mac - Tech and culture through an Apple lens)",
+            "url": "https://www.cultofmac.com/?p=805106",
+            "urlToImage": "https://www.cultofmac.com/wp-content/uploads/2023/02/Dear_Edward_Photo_010506.jpeg",
+            "publishedAt": "2023-02-18T01:00:59Z",
+            "content": "This week on Dear Edward, the Apple TV+ series about the daisy chain of grief that connects dozens of people after a plane crash, survivor Edward learns that his dead brother had a secret girlfriend.… [+7488 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cult of Mac"
+            },
+            "author": "Cult of Mac Deals",
+            "title": "This old-school mini console comes with hundreds of games for $24.99",
+            "description": "This Retro Inspired Game Console comes with 620 games preloaded. It's small enough to take anywhere, and on sale now for only $24.99.\n(via Cult of Mac - Tech and culture through an Apple lens)",
+            "url": "https://www.cultofmac.com/806026/retro-inspired-game-console/",
+            "urlToImage": "https://www.cultofmac.com/wp-content/uploads/2023/02/COM-Retro-Inspired-Game-Console.jpeg",
+            "publishedAt": "2023-02-18T14:30:25Z",
+            "content": "Retro games may have been simpler than todays modern marvels, but that doesnt make them any less fun. Plus, theres a nostalgic certain charm to those old-school graphics. If you want to relive the ea… [+1586 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cult of Mac"
+            },
+            "author": "D. Griffin Jones",
+            "title": "3 secret iPhone gestures you need to know",
+            "description": "There are a few hidden gestures you can learn on your iPhone. They can help you edit text, select a bunch of stuff in a list, and undo/redo wherever you are.\n(via Cult of Mac - Tech and culture through an Apple lens)",
+            "url": "https://www.cultofmac.com/806425/hidden-gestures-on-iphone/",
+            "urlToImage": "https://www.cultofmac.com/wp-content/uploads/2023/02/iPhones-Secret-Gestures.jpg",
+            "publishedAt": "2023-02-18T14:00:51Z",
+            "content": "There are a few hidden gestures on your iPhone that you absolutely need to know. Youre typing out a long text on your iPhone and you need to go back to fix a typo. Tapping on the screen to move the c… [+3351 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Spidersweb.pl"
+            },
+            "author": "pgkrzywy@gmail.com (Piotr Grabiec)",
+            "title": "Apple Studio Display ma wiele zalet i jedną wadę. Taką wielkości kota",
+            "description": "Studio Display to monitor dosłownie stworzony dla posiadaczy komputerów Apple’a. Ma kilka zalet oraz jedną wadę, której istnienie uświadomił mi mój kot. I to już pierwszego dnia testów.\nApple przez wiele lat nie miał w ofercie swoich monitorów i rekomendował …",
+            "url": "https://spidersweb.pl/2023/02/apple-studio-display-opinie-monitor-mac-kot.html",
+            "urlToImage": "https://ocs-pl.oktawave.com/v1/AUTH_2887234e-384a-4873-8bc5-405211db13a2/spidersweb/2023/02/apple-studio-display-kontra-kot.jpg",
+            "publishedAt": "2023-02-18T12:03:00Z",
+            "content": "Rozumiem oczywicie, e Apple projektowa Studio Display z myl o osobach, które na komputerach Mac pracuj, a nie ludziach, którzy chcieliby pod nie podpina maszyny z Windowsem i takie osoby powinny posz… [+165 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Spidersweb.pl"
+            },
+            "author": "maciej.gajewski@spidersweb.pl (Maciej Gajewski)",
+            "title": "Bezpieczny Twitter tylko dla abonentów. Elon Musk zniszczy to miejsce",
+            "description": "Osoby używające wiadomości SMS jako sposobu na dwuetapowe uwierzytelnianie konta będą musiały albo zapłacić za Twittera, albo też zaopatrzyć się w stosowną aplikację. Decyzja ta wydaje się co najmniej nieodpowiedzialna.\nSpider’s Web i inne branżowe media od l…",
+            "url": "https://spidersweb.pl/2023/02/twitter-sms-2fa-blue.html",
+            "urlToImage": "https://ocs-pl.oktawave.com/v1/AUTH_2887234e-384a-4873-8bc5-405211db13a2/spidersweb/2022/11/twitter-elon-musk.jpeg",
+            "publishedAt": "2023-02-18T10:16:31Z",
+            "content": "Korzystanie z dodatkowych aplikacji na urzdzeniu z Androidem bd iOS-em nie zawsze jest jednak moliwe. SMS, dopóki uytkownik nie jest w roamingu, dojdzie byskawicznie, nawet jeeli zasig telefonii komó… [+358 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Juanmerodio.com"
+            },
+            "author": "Juan Merodio",
+            "title": "La Nueva Economía Digital: Metaversos, NFTs…",
+            "description": "En la nueva economía digital, las empresas utilizan la tecnología para mejorar la eficiencia, reducir los costos, ampliar el alcance del mercado y mejorar la...\nLa entrada La Nueva Economía Digital: Metaversos, NFTs… se publicó primero en Juan Merodio.",
+            "url": "https://www.juanmerodio.com/nueva-economia-digital/",
+            "urlToImage": "https://www.juanmerodio.com/wp-content/uploads/2023/02/nueva-economia-digital.png",
+            "publishedAt": "2023-02-18T09:48:05Z",
+            "content": "18 de febrero\r\n | \r\n Por Juan Merodio\r\nEn la nueva economía digital, las empresas utilizan la tecnología para mejorar la eficiencia, reducir los costos, ampliar el alcance del mercado y mejorar la ex… [+6390 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Daily Beast"
+            },
+            "author": "Coleman Spilde",
+            "title": "‘RuPaul’s Drag Race’ Just Aired Its Twistiest Episode of the Season",
+            "description": "Photo Illustration by Elizabeth Brockway/The Daily Beast/MTV\r\nGay people love to sit in front of their televisions and scream, “‘DRAG RACE’ LIP SYNC…BEST” into their Apple TV remotes. In fact, they say that if you stand in front of your mirror on a Friday nig…",
+            "url": "https://www.thedailybeast.com/obsessed/rupauls-drag-lalaparuza-recap-lip-syncs-and-biggest-twists-of-the-season",
+            "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_675,w_1200,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1676671788/230217-rupauls-drag-race-hero_qtg7v2",
+            "publishedAt": "2023-02-18T02:00:00Z",
+            "content": "Gay people love to sit in front of their televisions and scream, DRAG RACE LIP SYNCBEST into their Apple TV remotes. \r\nIn fact, they say that if you stand in front of your mirror on a Friday night an… [+8357 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Daily Beast"
+            },
+            "author": "Kate Briquelet",
+            "title": "Socialite to Sex Offender: Inside Hadley Palmer’s Downfall",
+            "description": "Photo Illustration by The Daily Beast / Connecticut State Police Department\r\nWhen Hadley Palmer walked out of prison last week, it was the latest chapter in a sordid crime story that has friends in her tony Connecticut enclave scratching their heads about how…",
+            "url": "https://www.thedailybeast.com/inside-hadley-palmers-downfall-from-socialite-to-sex-offender",
+            "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_675,w_1200,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1676336528/230213-Briquelet-Hadley-Palmer-tease_w6f015",
+            "publishedAt": "2023-02-18T02:39:47Z",
+            "content": "When Hadley Palmer walked out of prison last week, it was the latest chapter in a sordid crime story that has friends in her tony Connecticut enclave scratching their heads about how a devoted mother… [+37047 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Roomie.jp"
+            },
+            "author": "小暮 ひさのり",
+            "title": "新モデル「Apple Watch Series X」は画面が大きくなって登場か。 見やすくなって最高じゃん！",
+            "description": "ROOMIE TREAT STOREでちょっとした自分へのご褒美を覗いてみませんか？ Apple Watchユーザーの皆さんに質問。今の画面サイズで満足しています？ Apple Watchって発売当初から基本的なスクエア型デザインは変わらずですが、画面はどんどん大きくなり、見やすくなってきていますよね。 昨年登場したアドベンチャースポーツ向けモデルの「Apple Watch Ultra」では、さら",
+            "url": "https://www.roomie.jp/2023/02/964131/",
+            "urlToImage": "https://media.loom-app.com/roomie/dist/images/2023/02/2023-02-10awk00.jpg?w=1200",
+            "publishedAt": "2023-02-18T04:30:04Z",
+            "content": "Apple Watch\r\nApple Watch\r\nApple Watch Ultra\r\nApple2024Apple Watch Series X3Apple Watch SE\r\n10Apple Watch Series X\r\nApple Watch Series X\r\n1.892.042Apple Watch Series 8510\r\nSeries 8 Apple Watch Ultra\r\n… [+160 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Zive.cz"
+            },
+            "author": "Karel Kilián",
+            "title": "Nepřehledná, ale na počasí skvělá. Návod, jak se vyznat v aplikaci Windy",
+            "description": "Meteorologickou aplikaci Windy založil v roce 2014 Ivo Lukačovič – zakladatel a majitel Seznam.cz. Dnes poskytuje v přehledných mapových podkladech širokou paletu informací nejen o počasí.",
+            "url": "https://www.zive.cz/clanky/neprehledna-ale-na-pocasi-skvela-navod-jak-se-vyznat-v-aplikaci-windy/sc-3-a-220417/default.aspx",
+            "urlToImage": "https://www.zive.cz/getthumbnail.aspx?q=100&height=20000&width=20000&id_file=336815478",
+            "publishedAt": "2023-02-18T07:45:00Z",
+            "content": "Windy mete pouívat jako aplikaci pro Android a Apple iOS, nebo jako webovou aplikaci spustitelnou prakticky na jakémkoli zaízení s moderním webovým prohlíeem. Vtina funkcí je dostupná zdarma, nkteré … [+615 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Seeking Alpha"
+            },
+            "author": "Ian Bezek",
+            "title": "Nexstar Media Group: A Surprisingly Resilient TV Business",
+            "description": "Nexstar has been a tremendous performer over the past decade. This might seem surprising, as the company primarily owns broadcast TV stations. Read more here.",
+            "url": "https://seekingalpha.com/article/4579675-nexstar-media-group-a-surprisingly-resilient-tv-business",
+            "urlToImage": "https://media.gettyimages.com/id/1371621696/es/foto/mujer-de-mediana-edad-usando-equipo-en-la-sala-de-control-de-una-estaci%C3%B3n-de-televisi%C3%B3n.jpg?b=1&s=170667a&w=0&k=20&c=OyL1gPSCuCm7nMCQ2e_8qN27x8nxV8tFu7IWutCm_yg=",
+            "publishedAt": "2023-02-18T13:00:00Z",
+            "content": "zamrznutitonovi/iStock via Getty Images\r\nThere can be a lot of money in declining industries. By any reasonable expectations, if you thought of a broadcast television company in the year 2023, you'd … [+10249 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Seeking Alpha"
+            },
+            "author": "SA Transcripts",
+            "title": "Air France-KLM SA (AFRAF) Q4 2022 Earnings Call Transcript",
+            "description": "Air France-KLM SA (OTCPK:AFRAF) Q4 2022 Earnings Conference Call February 17, 2023 2:30 AM ETCompany ParticipantsBenjamin Smith - CEOSteven Zaat - CFOMarjan Rintel - CEO, KLMAnne Rigail -...",
+            "url": "https://seekingalpha.com/article/4579676-air-france-klm-sa-afraf-q4-2022-earnings-call-transcript",
+            "urlToImage": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+            "publishedAt": "2023-02-18T04:27:06Z",
+            "content": "Air France-KLM SA (OTCPK:AFRAF) Q4 2022 Earnings Conference Call February 17, 2023 2:30 AM ET\r\n Company Participants\r\n Benjamin Smith - CEO\r\n Steven Zaat - CFO\r\n Marjan Rintel - CEO, KLM\r\n Anne Rigai… [+81616 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Taisy0.com"
+            },
+            "author": "taisy0",
+            "title": "Apple、｢iOS 16.4｣と｢iPadOS 16.4｣のパブリックベータ1を提供開始",
+            "description": "本日、Appleが、テスター向けに「iOS 16.4」と「iPadOS 16.4」のパブリックベータ1の提供を開始しました。 本パブリックベータ版はApple Beta Software Programに登録することでダ ...",
+            "url": "https://taisy0.com/2023/02/18/168618.html",
+            "urlToImage": "https://taisy0.com/wp-content/uploads/2022/06/ios16ss.jpg",
+            "publishedAt": "2023-02-18T00:03:33Z",
+            "content": "MacBook Pro 14MacBook AirAlpha Messenger"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Taisy0.com"
+            },
+            "author": "taisy0",
+            "title": "Apple、｢macOS Ventura 13.3｣のパブリックベータ1を提供開始",
+            "description": "本日、Appleが、テスター向けに「macOS Ventura 13.3」のパブリックベータ1の提供を開始しました。 本パブリックベータ版はApple Beta Software Programに登録することでダウンロー ...",
+            "url": "https://taisy0.com/2023/02/18/168625.html",
+            "urlToImage": "https://taisy0.com/wp-content/uploads/2022/06/macOSVentura1.jpg",
+            "publishedAt": "2023-02-18T00:13:34Z",
+            "content": "ApplemacOS Big Sur 11.7.4"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Taisy0.com"
+            },
+            "author": "taisy0",
+            "title": "Apple、｢Studio Display｣のファームウェアアップデート16.4を｢macOS 13.3 beta｣向けに配信開始",
+            "description": "9To5Macによると、Appleが「macOS 13.3 beta」を利用するユーザーに対し、「Studio Display」向けの”ファームウェアアップデート 16.4″をリリースしていることがわかりました。 このア ...",
+            "url": "https://taisy0.com/2023/02/18/168631.html",
+            "urlToImage": "https://taisy0.com/wp-content/uploads/2022/03/StudioDisplayss1.jpg",
+            "publishedAt": "2023-02-18T01:37:07Z",
+            "content": "9To5MacApplemacOS 13.3 betaStudio Display 16.4\r\nv15.5v16.4\r\nmacOS 13.3 betaMacStudio Display"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Macitynet.it"
+            },
+            "author": "Mauro Notarianni",
+            "title": "Apple crede nel mondo dei giochi, i giochi credono in Apple?",
+            "description": "Apple ha invitato alcuni giornalisti e influencer a dare un'occhiata ad alcuni giochi in arrivo quest'anno per iPhone, iPad, Apple TV e Mac. Cupertino dimostra di credere nei giochi. Gli sviluppatori, che faranno?\n- su macitynet.it Apple crede nel mondo dei g…",
+            "url": "https://www.macitynet.it/apple-ha-parlato-di-giochi-in-un-evento-stampa/",
+            "urlToImage": "https://www.macitynet.it/wp-content/uploads/2023/02/giocoMacmini.jpg",
+            "publishedAt": "2023-02-18T09:19:28Z",
+            "content": "Apple vuol davvero fare sul serio con i giochi su iPhone, iPad, Apple TV , Mac e manovra per avvicinare questo pianeta, fino ad oggi non troppo attento all’universo della Mela. Per dimostrare che le … [+3533 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Macitynet.it"
+            },
+            "author": "Yuri Di Prodo",
+            "title": "Come vedere la Lega Calcio americana in Italia su Apple TV",
+            "description": "Apple lancia il MLS Season Pass anche in Italia: tutto quello che c'è da sapere per l'inizio stagione (25 febbraio)\n- su macitynet.it Come vedere la Lega Calcio americana in Italia su Apple TV",
+            "url": "https://www.macitynet.it/come-vedere-la-lega-calcio-americana-in-italia-su-apple-tv/",
+            "urlToImage": "https://www.macitynet.it/wp-content/uploads/2023/02/apple-tv-americana-lega-calcio-major-league-soccer-2023-come-abbonarsi-2.jpg",
+            "publishedAt": "2023-02-18T12:29:12Z",
+            "content": "Gli appassionati di calcio possono seguire la Major League Soccer americana tramite Apple TV: quest’anno l’azienda infatti consentirà anche agli italiani di seguire tutte le partite della MLS e della… [+2024 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Macitynet.it"
+            },
+            "author": "Emiliano Contarino",
+            "title": "Anche Apple inizia a licenziare, ma non i dipendenti",
+            "description": "La crisi del mondo IT coinvolge anche il gigante di Cupertino e a soffrirne è una categoria particolare di collaboratori.\n- su macitynet.it Anche Apple inizia a licenziare, ma non i dipendenti",
+            "url": "https://www.macitynet.it/anche-apple-inizia-a-licenziare-ma-non-i-dipendenti/",
+            "urlToImage": "https://www.macitynet.it/wp-content/uploads/2022/03/applepark00002.jpg",
+            "publishedAt": "2023-02-18T06:44:23Z",
+            "content": "Mentre Apple potrebbe aver evitato licenziamenti di massa significativi che hanno invece afflitto altre società Big Tech come Amazon e Meta, sembra che l’azienda stia tagliando i legami con gli appal… [+1656 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Macitynet.it"
+            },
+            "author": "Pubblicità",
+            "title": "Offerte Amazon 18 febbraio fino al 61% su Apple, Belkin, Samsung, Asus, DJI, Netatmo",
+            "description": "In sconto monitor, memorie, hub, videocamere, termostati e altri accessori Smart per la casa, cavi, cuffie e molto altro ancora\n- su macitynet.it Offerte Amazon 18 febbraio fino al 61% su Apple, Belkin, Samsung, Asus, DJI, Netatmo",
+            "url": "https://www.macitynet.it/offerte-amazon-18-febbraio-fino-al-61-su-apple-belkin-samsung-asus-dji-netatmo/",
+            "urlToImage": "https://www.macitynet.it/wp-content/uploads/2018/04/amazonlista6.jpg",
+            "publishedAt": "2023-02-18T08:29:49Z",
+            "content": "Quelle che trovate elencate in questa pagina sono le offerte su Amazon valide nel momento in cui scriviamo.\r\nSono ancora in sconto:\r\n<ol><li>Apple, Bluetti, TP-link, LG, iRobot, AOC, Xiaomi</li><li>A… [+11113 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Macitynet.it"
+            },
+            "author": "Yuri Di Prodo",
+            "title": "La Realtà Virtuale di Canon per potenziare l’istruzione dei medici",
+            "description": "La tecnologia Canon si fonde con la piattaforma ecografica per una nuova didattica basata sulla realtà virtuale (che si è appena aggiornata)\n- su macitynet.it La Realtà Virtuale di Canon per potenziare l’istruzione dei medici",
+            "url": "https://www.macitynet.it/la-realta-virtuale-di-canon-per-potenziare-listruzione-dei-medici/",
+            "urlToImage": "https://www.macitynet.it/wp-content/uploads/2023/02/canon-vr-istruzione-medici-1.jpg",
+            "publishedAt": "2023-02-18T13:28:22Z",
+            "content": "Favorire lapprendimento in campo medico tramite la realtà virtuale: è quel che ha messo a punto il Canon Medical System insieme alla Fondazione SIRM, centro di eccellenza italiana in ambito radiodiag… [+2220 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hwupgrade.it"
+            },
+            "author": null,
+            "title": "Tetris e la folle storia della sua scoperta nel film di Apple TV+: ecco il trailer ufficiale",
+            "description": "Apple annuncia l'arrivo di 'Tetris' sulla sua piattaforma di streaming. Parliamo della pellicola dedicata all'omonimo videogioco sviluppato da Aleksej Paitnov negli anni '80. Nel film rivedremo il papà di Tetris e, al suo fianco, Henk Rogers, l'uomo che port…",
+            "url": "https://gaming.hwupgrade.it/news/videogames/tetris-e-la-folle-storia-della-sua-scoperta-nel-film-di-apple-tv+-ecco-il-trailer-ufficiale_114219.html",
+            "urlToImage": "https://www.hwupgrade.it/i/n/tetris-film-1280.jpg",
+            "publishedAt": "2023-02-18T12:01:01Z",
+            "content": "Nel giugno 1984, Aleksej Paitnov completò il codice di Tetris, il videogioco che avrebbe conquistato tutto il mondo entro la fine degli anni ottanta. Il merito del suo successo va in parte a Henk Ro… [+1933 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hwupgrade.it"
+            },
+            "author": null,
+            "title": "Offerte pazze su Amazon per il weekend: portatili con 24GB RAM 599, Apple, SSD da 4TB, monitor a 99, droni DJI, smartphone Samsung e Xiaomi ma anche molto altro",
+            "description": "Offerte incredibili in questo weekend targato Amazon: ci sono promozioni che vanno dai monitor a 99 passando per gli sconti sui droni DJI, ma anche super portatili (anche gaming) e robot per le pulizie. Ecco la lista completa!",
+            "url": "https://www.hwupgrade.it/news/multimedia/offerte-pazze-su-amazon-per-il-weekend-portatili-con-24gb-ram-599-apple-ssd-da-4tb-monitor-a-99-droni-dji-smartphone-samsung-e-xiaomi-ma-anche-molto-altro_114224.html",
+            "urlToImage": "https://www.hwupgrade.it/i/n/superweekend_amazon_720.jpg",
+            "publishedAt": "2023-02-18T08:54:20Z",
+            "content": "Se cercate un monitor di alta qualità, oggi ci sono diverse soluzioni della \r\nlinea ASUS professionale, con ottime caratteristiche. Questo è solo un esempio, \r\nun ottimo 27\" 2560x1440 pixel, 100% sRG… [+10194 chars]"
+        }
+    ]
+}

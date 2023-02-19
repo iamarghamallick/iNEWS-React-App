@@ -1,0 +1,7 @@
+business
+<Route path="/entertainment" element={<News pagesize="10" category="entertainment"" />} />
+<Route path="/general" element={<News pagesize="10" category="general"" />} />
+<Route path="/health" element={<News pagesize="10" category="health"" />} />
+<Route path="/science" element={<News pagesize="10" category="science"" />} />
+<Route path="/sports" element={<News pagesize="10" category="sports"" />} />
+<Route path="/technology" element={<News pagesize="10" category="technology"" />} />

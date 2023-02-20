@@ -1,14 +1,8 @@
 import './App.css';
 import Navbar from './components/Navbar';
-
 import React, { Component } from 'react'
 import News from './components/News';
-import {
-  BrowserRouter as Router,
-  Routes,
-  Route
-} from "react-router-dom";
-
+import {BrowserRouter as Router, Routes, Route} from "react-router-dom";
 import LoadingBar from 'react-top-loading-bar'
 
 export default class App extends Component {
